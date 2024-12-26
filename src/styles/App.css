@@ -1,0 +1,14 @@
+a,
+button,
+input,
+textarea {
+  cursor: none;
+}
+
+section {
+  z-index: 30;
+}
+
+.spline-space {
+  z-index: 10;
+}
